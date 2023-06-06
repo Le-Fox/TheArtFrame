@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "lM4avaPl442hnSMIXWZPbFzWh/izPtuzAh7AsVpep7j5eqj9ct9v1DpjJZSRxxQwa4YmfE12NAMa53vd/D2SFw==",
+  "dgSpecHash": "PHNCTpQvgftj8WThyIVs2doq+gyV3dKMUcbYFQBEj59u5B42QQBlo5F0ZCs7N+2U5oRNSrdx7CEwllce+ikz4A==",
   "success": true,
-  "projectFilePath": "c:\\Users\\asand\\OneDrive\\Documents\\SenzoDev\\ArtProjectCSharp\\ArtFrame\\ArtFrame.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\asand\\OneDrive\\Documents\\SenzoDev\\ArtProjectCSharp\\ArtFrame\\ArtFrame.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\asand\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
   "logs": []
 }

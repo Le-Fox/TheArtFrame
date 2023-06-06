@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\asand\\OneDrive\\Documents\\SenzoDev\\ArtProjectCSharp\\ArtFrame\\ArtFrame.csproj": {}
+    "C:\\Users\\asand\\OneDrive\\Documents\\SenzoDev\\ArtProjectCSharp\\ArtFrame\\ArtFrame.csproj": {}
   },
   "projects": {
-    "c:\\Users\\asand\\OneDrive\\Documents\\SenzoDev\\ArtProjectCSharp\\ArtFrame\\ArtFrame.csproj": {
+    "C:\\Users\\asand\\OneDrive\\Documents\\SenzoDev\\ArtProjectCSharp\\ArtFrame\\ArtFrame.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\asand\\OneDrive\\Documents\\SenzoDev\\ArtProjectCSharp\\ArtFrame\\ArtFrame.csproj",
+        "projectUniqueName": "C:\\Users\\asand\\OneDrive\\Documents\\SenzoDev\\ArtProjectCSharp\\ArtFrame\\ArtFrame.csproj",
         "projectName": "ArtFrame",
-        "projectPath": "c:\\Users\\asand\\OneDrive\\Documents\\SenzoDev\\ArtProjectCSharp\\ArtFrame\\ArtFrame.csproj",
+        "projectPath": "C:\\Users\\asand\\OneDrive\\Documents\\SenzoDev\\ArtProjectCSharp\\ArtFrame\\ArtFrame.csproj",
         "packagesPath": "C:\\Users\\asand\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\asand\\OneDrive\\Documents\\SenzoDev\\ArtProjectCSharp\\ArtFrame\\obj\\",
+        "outputPath": "C:\\Users\\asand\\OneDrive\\Documents\\SenzoDev\\ArtProjectCSharp\\ArtFrame\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\asand\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -40,6 +40,12 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
